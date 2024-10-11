@@ -5,8 +5,8 @@
 // @description     Watch movies on IMDB, TMDB, Kinopoisk and Letterboxd!
 // @version         3.1.0
 // @icon            https://raw.githubusercontent.com/1NXXXN1/NXMEDIA/main/assets/favicon.png
-// @updateURL       https://github.com/1NXXXN1/NXMEDIA/raw/refs/heads/main/userscript/operator.user.js
-// @downloadURL     https://github.com/1NXXXN1/NXMEDIA/raw/refs/heads/main/userscript/operator.user.js
+// @updateURL      https://github.com/1NXXXN1/nxmedia-operator/raw/refs/heads/main/operator.user.js
+// @downloadURL     https://github.com/1NXXXN1/nxmedia-operator/raw/refs/heads/main/operator.user.js
 // @run-at          document-idle
 // @grant           GM.info
 // @grant           GM.setValue
